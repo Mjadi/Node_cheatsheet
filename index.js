@@ -99,4 +99,4 @@ transporter.sendMail(mailOptions, function(error, info){
 			      }
 });*/
 
-console.log("Kaam khatam");
+console.log("Done!");
